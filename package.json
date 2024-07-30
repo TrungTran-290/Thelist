@@ -1,8 +1,8 @@
 {
-  "name": "Thelist",
+  "name": "thelist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TrungTran-290.github.io/Thelist/",
+  "homepage": "https://TrungTran-290.github.io/thelist/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
